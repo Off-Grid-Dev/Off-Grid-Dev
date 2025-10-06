@@ -26,8 +26,8 @@ Other: Arduino (for IoT projects)
 [Project 3 Slot: Add link, description, and tech stack here]
 
 For more details on my work, check out my portfolio: [Portfolio Link Slot: Add your portfolio URL here as a "Read More" link]
+
 📊 GitHub Stats & Badges
-To add badges to your GitHub README, you can use services like GitHub Readme Stats or Shields.io. Here's how to configure some popular ones – copy-paste the Markdown code into your README and replace Off-Grid-Dev with your username where needed:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Off-Grid-Dev&theme=radical&hide_border=true)
 
@@ -35,6 +35,11 @@ To add badges to your GitHub README, you can use services like GitHub Readme Sta
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript&logoColor=f0dc4e&logoSize=auto)
+![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoSize=auto&labelColor=%2338606e)
+![Tailwind](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=%2317becb&logoSize=auto&labelColor=%23161d2d)
+![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoSize=auto&labelColor=white)
+![Arduino](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoSize=auto&labelColor=%2303989e)
+
 
 
 Add these under this section for visual flair. Preview them in your README to see how they look!
