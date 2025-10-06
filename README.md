@@ -45,8 +45,9 @@ For more details on my work, check out my portfolio: [Portfolio Link Slot: Add y
 📫 Get in Touch
 
 [LinkedIn Slot: Add your LinkedIn URL here]
+
 [iCodeThis Profile Slot: Add your iCodeThis.com profile URL here]
-X (Twitter): @skinnyK
+
 Email: [skinnykdev@gmail.com]
 
 Let's connect and build something cool! 😊
