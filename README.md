@@ -34,9 +34,11 @@ Top Languages Card: Highlights your most-used languages.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Off-Grid-Dev&layout=compact&theme=radical&hide_border=true)
 Streak Stats: Tracks your contribution streaks.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Off-Grid-Dev&theme=radical&hide_border=true)
-Custom Badges (via Shields.io): For skills or status, e.g.,
+
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-You can generate more at https://shields.io – customize colors, logos, and text.
+![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript&logoColor=f0dc4e&logoSize=auto)
+
 
 Add these under this section for visual flair. Preview them in your README to see how they look!
 📫 Get in Touch
