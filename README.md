@@ -42,12 +42,11 @@ For more details on my work, check out my portfolio: [Portfolio Link Slot: Add y
 
 
 
-Add these under this section for visual flair. Preview them in your README to see how they look!
 📫 Get in Touch
 
 [LinkedIn Slot: Add your LinkedIn URL here]
 [iCodeThis Profile Slot: Add your iCodeThis.com profile URL here]
 X (Twitter): @skinnyK
-Email: [Your email – add if desired]
+Email: [skinnykdev@gmail.com]
 
 Let's connect and build something cool! 😊
