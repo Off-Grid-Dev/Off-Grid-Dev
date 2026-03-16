@@ -1,4 +1,4 @@
-# Hi, I'm Off-Grid-Dev 👋
+# Hi, I'm *skinny*K
 
 I'm a frontend developer with a passion for crafting intuitive user interfaces and experiences. Currently completing my 2-year Frontend Development program at Noroff, I thrive on turning ideas into interactive websites. With 2 years of experience as a Junior Software Developer at BikeFinder AS in Stavanger, Norway, I've honed my skills in building responsive web applications.
 When I'm not coding, I live off-grid in southern Norway, taking care of the house, geese, plants, and hiking in the woods with my dog. I enjoy working on small Arduino projects and maintaining the solar power system at my house.
