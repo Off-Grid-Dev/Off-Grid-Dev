@@ -12,28 +12,18 @@ When I'm not coding, I live off-grid in southern Norway, taking care of the hous
 
 ## 🚀 What I'm Working On
 
-Wrapping up my Frontend Development studies at Noroff.
-Exploring creative UI/UX designs using modern tools and frameworks.
+I am currently working on app interface for common professional kitchen scales.
 
 ## 📚 Currently Learning
 
-Updating my React knowledge to React 19.1 features.
+Working on my QwikJS knowledge.
 C++ for the Arduino IDE, focusing on IoT and microcontroller projects.
+Playing around in with my nvim lua configs. (by the way)
 
 ## 🛠️ Skills & Technologies
 
 Languages & Markup: TypeScript, JavaScript (including modern ES6+ features), PHP, HTML5, CSS, SVG, Python
-Frameworks & Libraries: Tailwind CSS, Bootstrap, WordPress
-Other: Arduino (for IoT projects)
-
-## 🌟 Featured Projects
-
-[Project 1 Slot: Add link, description, and tech stack here, e.g., "Project Name - Brief description [Repo Link]"]
-[Project 2 Slot: Add link, description, and tech stack here]
-[Project 3 Slot: Add link, description, and tech stack here]
-
-For more details on my work, check out my portfolio: [Portfolio Link Slot: Add your portfolio URL here as a "Read More" link]
-
+Frameworks & Libraries: Tailwind CSS, Bootstrap, WordPress, learning a bit of Rust
 
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Off-Grid-Dev&theme=radical&hide_border=true) 
